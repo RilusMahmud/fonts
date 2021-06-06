@@ -32,6 +32,8 @@ The following fonts that are available in Mapbox Studio are supported.
 
 ## Package the Fonts
 
+Use node v10
+
 Install required packages:
 
 ```
